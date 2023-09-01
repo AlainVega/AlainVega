@@ -10,7 +10,7 @@ Estudiante de ingenieria informatica en la Universidad Catolica "Nuestra señora
 # 📊 Estadisticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=AlainVega&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlainVega&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainVega&theme=onedark&hide_border=true&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainVega&theme=onedark&hide_border=true&layout=compact&langs_count=10&hide=jupyter%20notebook)
 
 ## 🏆 Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=AlainVega&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
